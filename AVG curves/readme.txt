@@ -1,0 +1,1 @@
+This folder contains the average curve data for the control and melatonin groups.
