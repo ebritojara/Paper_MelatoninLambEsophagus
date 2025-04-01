@@ -1,3 +1,6 @@
-# Paper_MelatoninLambEsophagus
-This repository provides the data obtained from uniaxial tensile testing of experimental curves for the control and melatonin groups in lamb esophagus, corresponding to the article "Effect of Melatonin on Passive, Ex-Vivo Biomechanical Behavior of Lamb Esophagus."
-![image](https://github.com/user-attachments/assets/b4cb226d-ce00-407e-8b6c-0209f5cfe8f6)
+# Average Curves
+This folder contains the average curves with the SEM data for each classification.
+
+[tissue_graph_SD_esq.pdf](https://github.com/user-attachments/files/19552173/tissue_graph_SD_esq.pdf)
+
+Uniaxial stress-stretch curves (mean ± SD) including mean rupture point, and transversal stretches. Control (CN) and melatonin (MN) groups. Internal tissue (Int; a.1 and a.2), external tissue (Ext; b.1 and b.2), and integrated tissue (IT; c.1 and c.2).
